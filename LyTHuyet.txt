@@ -1,0 +1,17 @@
+Local repository: nơi lưu trữ mã nguồn trên máy tính
+Remote repository: nơi lưu trữ mã nguồn online
+
+Để chạy được git trong webstorm cần thực hiện 2 câu lệnh:
+git config --global user.email <email in github>
+git config --global user.name <username in github>
+
+git init: khởi tạo local repository
+git add: đưa các thay đổi vào staging area
+ cấu trúc: git add .
+git commit: đưa thay đổi từ staging vào local repo, lưu lại lịch sử thay đổi
+ cấu trúc của git commit: git commit -m upda" cập nhật lý thuyết"
+git remote: kết nối với remote repo
+git push: đưa code từ local lên remote
+
+
+các file đang làm việc: staging area  localRepo(
