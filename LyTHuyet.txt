@@ -9,11 +9,11 @@ git init: khởi tạo local repository
 git add: đưa các thay đổi vào staging area
  cấu trúc: git add .
 git commit: đưa thay đổi từ staging vào local repo, lưu lại lịch sử thay đổi
- cấu trúc của git commit: git commit -m upda" cập nhật lý thuyết"
+ cấu trúc của git commit: git commit -m " cập nhật lý thuyết"
 git remote: kết nối với remote repo
 -git remote add origin https://github.com/longvupham/GitandHTML.git (câu lệnh này copy từ github)
 git push: đưa code từ local lên remote
 - cấu trúc: git push origin master
 
 
-các file đang làm việc: staging area  localRepo(
+các file đang làm việc: staging area  localRepo  RemoteRepo
